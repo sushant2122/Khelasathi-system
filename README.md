@@ -29,8 +29,7 @@ It allows players to book futsal courts, manage bookings, receive verification n
 - **Backend:** Node.js + Express.js + PostgreSQL + Socket.IO  
 - **Authentication:** JWT  
 - **Payments:** Khalti API  
-- **Storage:** Cloudinary  
-- **Deployment:** Docker + Docker Compose
+- **Media Storage:** Cloudinary  
 - **Security:** Bcrypt
   
 ---
