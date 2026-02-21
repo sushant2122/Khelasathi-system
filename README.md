@@ -99,8 +99,8 @@ SMTP_FROM= your_user_email
 KHALTI_SECRET_KEY = your_khalti_secret
 FRONTEND_URL=http://localhost:5173
 
-PG_USER=your_db_user
-PG_PASSWORD=your_db_password
+PG_USER=khelasathiadmin
+PG_PASSWORD=khelasathiadmin
 PG_HOST = db
 PG_DIALECT = postgres
 PG_DATABASE = Khelasathi
