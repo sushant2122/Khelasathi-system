@@ -71,6 +71,7 @@ cp .env.example .env
 3. Edit .env with your configuration (e.g., backend API URL):
 ```bash
 VITE_API_URL=http://localhost:9005
+VITE_API_VERSION=/api/v1
 ```
 ### Backend
 
